@@ -1,2 +1,2 @@
-# lifetimes_demo
-lifetimes demo
+# Lifetimes demo
+- https://www.kaggle.com/datasets/carrie1/ecommerce-data
